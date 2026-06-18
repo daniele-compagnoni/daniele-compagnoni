@@ -1,6 +1,6 @@
 # 🎓 Computer Engineering & Applied AI
 
-I'm a **Computer Engineering student at Sapienza University of Rome**, graduating **Q3 2026**, with hands-on engineering experience in advanced NLP and AI systems. 🧠
+I'm a **Computer Engineering student at Sapienza University of Rome**, graduating **July 2026**, with hands-on engineering experience in advanced NLP and AI systems. 🧠
 
 I am currently building complex information extraction and parsing pipelines that feed structured data into large language models — the kind of applied AI infrastructure that sits at the core of modern RAG systems and LLM deployment. 🚀
 
